@@ -1,0 +1,8 @@
+.trash:hover{
+    cursor: pointer;
+    color: red;
+}
+.pluscircle:hover{
+    cursor: pointer;
+    color: blue;
+}
